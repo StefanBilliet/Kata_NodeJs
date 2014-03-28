@@ -1,0 +1,19 @@
+{
+  "name": "FizzBuzz",
+  "version": "0.0.0",
+  "description": "FizzBuzz kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha specs/FuzzBuzzTests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Kata_NodeJs"
+  },
+  "author": "Stefan Billiet",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "data-driven": "~1.0.0",
+    "chai": "~1.9.1"
+  }
+}
